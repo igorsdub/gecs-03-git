@@ -6,7 +6,7 @@
 ## Exercise part-1
 1. Run below command to restart git  
 ```zsh
-rm .git
+rm -rf .git
 git init
 ```
 
